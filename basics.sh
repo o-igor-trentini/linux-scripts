@@ -13,9 +13,6 @@ sudo apt install gufw -y
 # 	- Unrar
 sudo apt install ubuntu-restricted-extras -y
 
-### Git
-sudo apt install git -y
-
 ### Curl
 sudo apt install curl -y
 

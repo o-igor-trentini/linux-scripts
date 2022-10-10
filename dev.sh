@@ -33,4 +33,4 @@ su - ${USER}
 sudo usermod -aG docker [usuário]
 
 ### Docker Compoe
-sudo apt-get install docker-compose-plugin -y
+sudo apt-get install docker-compose-plugin
