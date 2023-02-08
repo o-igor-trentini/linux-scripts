@@ -1,7 +1,7 @@
 #!/bin/sh
 
 ### Drivers
-sudo ubuntu-drivers autoinstall -y
+sudo ubuntu-drivers autoinstall
 
 ### Gufw firewall
 sudo apt install gufw -y
