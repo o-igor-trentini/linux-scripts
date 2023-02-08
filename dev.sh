@@ -30,7 +30,7 @@ sudo apt install docker-ce -y
 # Executar sem SUDO
 sudo usermod -aG docker ${USER}
 su - ${USER}
-sudo usermod -aG docker [usuário]
+sudo usermod -aG docker ${USER}
 
 ### Docker Compoe
 sudo apt-get install docker-compose-plugin
