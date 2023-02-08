@@ -13,7 +13,7 @@
 curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.35.3/install.sh | zsh
 source ~/.zshrc
 nvm install --lts
-nvm use default
+# nvm alist default <version>
 npm install -g npm@latest
 npm i -g yarn@latest
 
